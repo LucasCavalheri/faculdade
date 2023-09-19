@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.css": "css",
+		"*.sass": "scss",
+		"*.tpl": "html",
+		"stdio.h": "c"
+	}
+}
